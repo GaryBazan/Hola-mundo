@@ -1,5 +1,5 @@
-# Hola-mundo
+#Katas
 Taka
-Repositorio de prueba
+Repositorio con katas
 Autor:Gary Amilkar Bazán 
 Fecha:08/02/2022
